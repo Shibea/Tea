@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: salmon;
+  color: beige;
+  margin: 50;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+}
+
+p {
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+}
+
+a {
+  padding: 12px;
+  background-color: cadetblue;
+  border-radius: 4px;
+  color: white;
+  border: 1px solid;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: burlywood;
+  text-decoration: underline;
+}

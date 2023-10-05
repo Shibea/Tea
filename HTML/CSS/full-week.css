@@ -1,0 +1,12 @@
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+
+li {
+  margin: 32px;
+  background-color: blue;
+  border-radius: 6px;
+}
